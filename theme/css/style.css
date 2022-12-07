@@ -542,7 +542,7 @@ mark {
 
 @media (max-width: 1023px) {
   .navbar-start,
-.navbar-end {
+  .navbar-end {
     max-width: 300px;
     padding: 0 10px;
     margin-left: auto !important;
@@ -677,7 +677,7 @@ mark {
   top: 25%;
 }
 .banner-shape-1 .path {
-  fill: #4FD675;
+  fill: #050505;
 }
 .banner-shape-2 {
   position: absolute;
@@ -685,7 +685,7 @@ mark {
   top: 25%;
 }
 .banner-shape-2 .path {
-  fill: #4FD675;
+  fill: #000000;
 }
 .banner-shape-3 {
   position: absolute;
@@ -693,14 +693,14 @@ mark {
   bottom: 15%;
 }
 .banner-shape-3 .path {
-  fill: #4FD675;
+  fill: #000000;
 }
 .banner-border {
   position: absolute;
   bottom: -60px;
   left: 0;
   width: 100%;
-  stroke: #4FD675;
+  stroke: #000000;
 }
 
 .header {
