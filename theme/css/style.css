@@ -542,7 +542,7 @@ mark {
 
 @media (max-width: 1023px) {
   .navbar-start,
-.navbar-end {
+  .navbar-end {
     max-width: 300px;
     padding: 0 10px;
     margin-left: auto !important;
